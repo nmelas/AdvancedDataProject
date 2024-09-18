@@ -5,4 +5,4 @@ This project aims to use a CSV file containing data on movies; including genres,
 ## R Markdown link
 [rpubs](https://rpubs.com/nmelas/1216820) or [HTML](https://github.com/nmelas/AdvancedDataProject/blob/main/Assignment3Rmarkdown.html)
 ## JSON file
-https://raw.githubusercontent.com/nmelas/AdvancedDataProject/main/MoviesJSON.json
+(https://raw.githubusercontent.com/nmelas/AdvancedDataProject/main/MoviesJSON.json)
